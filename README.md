@@ -28,11 +28,11 @@ we also added a feature called wishlist where one can add movies to their wishli
 
 i am using ombd api as backend ,from there we will fetch or retrieve data in form of json format in my index.js file in wishlist module then from that api link i split the data in key value pairs and display them if needed ,then added a search bar also
 
-##THANK YOU SIR
+## THANK YOU SIR
 
-##some pictures of my website
+## Some pictures of my website
 
-#login
+## login
 
 ![image](https://user-images.githubusercontent.com/89183032/199703501-1974bb75-6d73-492b-a1b3-94cfd242f832.png)
 
@@ -40,10 +40,10 @@ i am using ombd api as backend ,from there we will fetch or retrieve data in for
 
 ![image](https://user-images.githubusercontent.com/89183032/199703629-4cd7783b-e3bc-491d-bb7c-41a4ca14b995.png)
 
-##feed list of search
+## feed list of search
 
 ![image](https://user-images.githubusercontent.com/89183032/199703814-bd7d4371-c8cf-4a09-bd4d-fbf7049065a9.png)
 
-##wishlist 
+## wishlist 
 ![image](https://user-images.githubusercontent.com/89183032/199704051-1dfa33f0-d429-4c98-bb3f-039a9ff3b4b5.png)
 
